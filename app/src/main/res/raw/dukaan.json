@@ -1,0 +1,206 @@
+[
+    {
+      "name":"Fast Food",
+      "address":"Various Resturants",
+      "delivery_charge": 7,
+      "image":"https://source.unsplash.com/featured/400x300/?food",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+
+      "menus": [
+        {
+          "name": "Bread",
+          "price": 3.00,
+          "url": "https://img.icons8.com/doodle/48/000000/bread--v1.png"
+        },
+        {
+          "name": "French Fries",
+          "price": 2.45,
+          "url": "https://img.icons8.com/doodle/48/000000/french-fries.png"
+        },
+        {
+          "name": "Hamburger",
+          "price": 5.00,
+          "url": "https://img.icons8.com/doodle/48/000000/hamburger.png"
+        },
+        {
+          "name": "Hot dog",
+          "price": 3.19,
+          "url": "https://img.icons8.com/doodle/48/000000/hot-dog.png"
+        },
+        {
+          "name": "Pizza",
+          "price": 7.00,
+          "url": "https://img.icons8.com/doodle/48/000000/pizza--v1.png"
+        },
+        {
+          "name": "Taco",
+          "price": 4.25,
+          "url": "https://img.icons8.com/doodle/48/000000/taco.png"
+        }
+
+      ]
+    },
+
+
+    {
+      "name":"Fruits",
+      "address":"Various Cheapest deals",
+      "delivery_charge": 8,
+      "image":"https://source.unsplash.com/featured/400x300/?fruits",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Apple",
+          "price": 1.99,
+          "url": "https://img.icons8.com/color/48/000000/apple.png"
+        },
+        {
+          "name": "Apples Plate",
+          "price": 5.59,
+          "url": "https://img.icons8.com/color/48/000000/apples--plate.png"
+        },
+        {
+          "name": "Apricot",
+          "price": 4,
+          "url": "https://img.icons8.com/color/48/000000/apricot.png"
+        },
+        {
+          "name": "Avocado",
+          "price": 7.00,
+          "url": "https://img.icons8.com/color/48/000000/avocado.png"
+        },
+        {
+          "name": "Coconut",
+          "price": 3.49,
+          "url": "https://img.icons8.com/color/48/000000/coconut.png"
+        },
+        {
+          "name": "Citrus",
+          "price": 4.95,
+          "url": "https://img.icons8.com/color/48/000000/citrus.png"
+        },
+        {
+          "name": "Banana",
+          "price": 4,
+          "url": "https://img.icons8.com/color/48/000000/banana.png"
+        },
+        {
+          "name": "Goyave",
+          "price": 5.49,
+          "url": "https://img.icons8.com/color/48/000000/goyave.png"
+        },
+        {
+          "name": "Lime icon ",
+          "price": 3.99,
+          "url": "https://img.icons8.com/color/48/000000/lime.png"
+        }
+      ]
+    },
+  {
+    "name":"Hardware",
+    "address":"various Thrift Stores",
+    "delivery_charge": 10,
+    "image":"https://source.unsplash.com/featured/400x300/?electronics",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Motherboard",
+        "price": 4.95,
+        "url": "https://img.icons8.com/color/48/40C057/motherboard.png"
+      },
+      {
+        "name": "Processor",
+        "price": 32.59,
+        "url": "https://img.icons8.com/color/48/000000/processor.png"
+      },
+      {
+        "name": "Raspberry Pi Zero",
+        "price": 45.49,
+        "url": "https://img.icons8.com/color/48/000000/raspberry-pi-zero.png"
+      },
+      {
+        "name": "Touch Pad",
+        "price": 53.99,
+        "url": "https://img.icons8.com/color/48/000000/touchpad.png"
+      },
+      {
+        "name": "Video Card",
+        "price": 8.29,
+        "url": "https://img.icons8.com/color/48/000000/video-card.png"
+      }
+    ]
+  },
+  {
+    "name":"Groceries",
+    "address":"Yummy Groceries",
+    "delivery_charge": 6,
+    "image":"https://source.unsplash.com/featured/400x300/?groceries",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+]

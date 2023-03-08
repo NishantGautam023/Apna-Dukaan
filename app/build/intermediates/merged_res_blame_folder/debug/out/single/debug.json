@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_page.png.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\drawable\\home_page.png"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_place_your_order.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_place_order_recycler_row.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_row.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_succeess.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shop_icon.png.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\drawable-v24\\shop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\raw_dukaan.json.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\raw\\dukaan.json"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus.png.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_order_placed.gif.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\drawable\\order_placed.gif"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_recycler_row.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_screen.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\layout\\home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nishant\\Desktop\\ApnaDukaan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
