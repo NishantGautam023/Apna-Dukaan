@@ -20,6 +20,4 @@ Here are the basic requirements of the app:
 
 
 Live Link:
-
-
-https://conestoga.desire2learn.com/d2l/wcs/mp/mediaplayer.d2l?ou=588404&entryId=53472375-efa8-4cde-a49b-5178c21189fb/latest&type=video
+https://streamable.com/91sc3b
